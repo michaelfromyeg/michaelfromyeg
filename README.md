@@ -1,26 +1,20 @@
-### hello! my name is Michael (he/him), thanks for stopping by! 🐢
+# Michael DeMarco—@michaelfromyeg
 
-<!--
-**michaelfromyeg/michaelfromyeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Michael. I'm a sophomore at [UBC](https://ubc.ca) in Vancouver, BC, currently studying computer science. I'm broadly interested in the intersection between the social sciences, linguistics, and computing, and am always looking to serve my community through innovation. Learn more about me on [my website](https://michaeldemar.co).
 
-Here are some ideas to get you started:
+## What I'm up to 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TAing an introductory data science course
+- Wrapping up an fullstack SWE internship where I built a [website](https://shieldscore.com) to support small businesses through the COVID-19 pandemic
+- Helping transition computer engineering courses to an online format for fall 2020
+- Writing about CS and my life on my blog, [here](https://michaeldemar.co/blog)
 
-I'm an upcoming sophomore at [UBC](https://ubc.ca) ⚡ in Vancouver, BC ☔. I'm currently pursuing on Honors Computer Science degree in the Faculty of Science.
+## Where I'm headed 🚂
 
-This summer, I'm interning with my school's Department of Electrical and Computer Engineering to help transition various software-based courses online, and migrating our old website, [ece.ubc.ca](https://ece.ubc.ca), from Drupal to WordPress. I'm also completing contract work with a Calgary-based software start-up known as [Artesian Software](https://artesiansoft.com/), where I mostly do fullstack web development. You can see the project I'm working on [here](https://shieldscore.com).
+- Launching [weNote](https://wenote.ca), a platform to enhance remote learning
+- Looking for internships for Winter (Jan-Apr) ❄ and Summer (May-Aug) ☀ 2021
+- Publishing my first paper before I graduate
 
-In the past, I've worked as a TA for courses based in Python and Racket, built a volunteer tracker web-app for a Vancouver nonprofit, and made a VS Code extension to help beginners practice coding problems daily. You can learn more about what I've been up to in the past on my website, [here](https://michaeldemar.co).
+## Get in touch
 
-I'm currently looking for internships for Winter (Jan-Apr) ❄  and Summer (May-Aug) ☀ 2021. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/michaelfromyeg/) or via e-mail.
-
-I also own a pet tortoise. Say hi to [Leo](https://www.instagram.com/leoeatinglettuce/).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/michaelfromyeg/) or via e-mail (michaelfromyeg@gmail.com). Always looking to make new friends and group up on side projects!
