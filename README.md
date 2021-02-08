@@ -4,15 +4,20 @@ Hi, I'm Michael. I'm a sophomore at [UBC](https://ubc.ca) in Vancouver, BC, curr
 
 ## What I'm up to 🧰
 
-- TAing an introductory data science course
-- Wrapping up an fullstack SWE internship where I built a [website](https://shieldscore.com) to support small businesses through the COVID-19 pandemic
-- Helping transition computer engineering courses to an online format for fall 2020
-- Writing about CS and my life on my blog, [here](https://michaeldemar.co/blog)
+- Interning full-time at [@Samsung](https://github.com/Samsung) (specifically, at [SRCA](https://research.samsung.com/srca)) working on [Samsung Knox](https://samsungknox.com/)
+- TAing an introductory [boolean algebra course](https://www.students.cs.ubc.ca/~cs-121/current/) at UBC
+- Writing about CS and my life on my blog, [here](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
+
+## What I've done 📚
+
+- TA'd a data science course in R, and introductory programming courses in Python and Racket
+- Interned as a fullstack SWE where I built a [website](https://shieldscore.com) to support small businesses through the COVID-19 pandemic
+- Helped transition computer engineering courses to an online format for [fall 2020](http://ece.ubc.ca/course-updates)
 
 ## Where I'm headed 🚂
 
 - Launching [weNote](https://wenote.ca), a platform to enhance remote learning
-- Looking for internships for Winter (Jan-Apr) ❄ and Summer (May-Aug) ☀ 2021
+- Participating in hackathons and working on side projects
 - Publishing my first paper before I graduate
 
 ## Get in touch
