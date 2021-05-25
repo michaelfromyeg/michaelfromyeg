@@ -6,7 +6,7 @@ Learn more about me on [my website](https://michaeldemar.co) and via [my resume]
 
 ## What I'm up to 🧰
 
-- Interning full-time at [@samsung](https://github.com/Samsung) working on [Samsung Knox](https://samsungknox.com/) with Node, React, Mongo, and more
+- Interning full-time at Samsung, where I work on [Samsung Knox](https://samsungknox.com/) with Node, React, Mongo, and more
 - TAing a a Computer Systems course at UBC
 - Writing about CS and my life on my blog, [here](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
 
