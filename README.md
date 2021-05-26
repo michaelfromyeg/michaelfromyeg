@@ -8,7 +8,7 @@ Learn more about me on [my website](https://michaeldemar.co) and via [my resume]
 
 - Interning full-time at Samsung, where I work on [Samsung Knox](https://samsungknox.com/) with Node, React, Mongo, and more
 - TAing a a Computer Systems course at UBC
-- Writing about CS and my life on my blog, [here](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
+- Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
 
 ## What I've done 📚
 
