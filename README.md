@@ -12,7 +12,7 @@ Learn more about me on [my website](https://michaeldemar.co) and via [my resume]
 
 ## What I've done 📚
 
-- TA'd courses on data sciecne, computational models, introduction to functional programming, and introduction to programming for non-majors
+- TA'd courses on data science, computational models, introduction to functional programming, and introduction to programming for non-majors
 - Interned as a full stack software engineer where I built an application to support small businesses through the COVID-19 pandemic
 - Helped transition computer engineering courses to an online format for this past fall semester
 
