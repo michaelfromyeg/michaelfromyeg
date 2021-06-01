@@ -1,6 +1,6 @@
 # Michael DeMarco—@michaelfromyeg
 
-Hi, I'm Michael. I'm a thid-year undergraduate student at [The University of British Columbia](https://ubc.ca) in Vancouver, BC, currently pursuing a B.Sc. in Computer Science. I'm broadly interested in the intersection between the social sciences, linguistics, and computing, and am always looking to serve my community through innovation.
+Hi, I'm Michael. I'm a thid-year undergraduate student at [The University of British Columbia](https://ubc.ca) in Vancouver, BC, currently pursuing a B.Sc. in Honours Computer Science. I'm broadly interested in the intersection between the social sciences, linguistics, and computing, and am always looking to serve my community through innovation.
 
 Learn more about me on [my website](https://michaeldemar.co) and via [my resume](https://resume.michaeldemar.co).
 
