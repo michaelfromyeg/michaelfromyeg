@@ -1,20 +1,18 @@
 # Michael DeMarco—@michaelfromyeg
 
-Hi, I'm Michael. I'm a third-year undergraduate student at [The University of British Columbia](https://ubc.ca) in Vancouver, BC, currently pursuing a B.Sc. in Honours Computer Science. I'm broadly interested in the intersection between the social sciences, linguistics, and computing, and am always looking to serve my community through innovation.
+Hi, I'm Michael. I'm a third-year undergraduate student at the [University of British Columbia](https://ubc.ca) in Vancouver, BC, currently pursuing a B.Sc. in Honours Computer Science with a minor in Data Science. I'm broadly interested in the intersection between the social sciences, linguistics, and computing, and am always looking to serve my community through innovation.
 
 Learn more about me on [my website](https://michaeldemar.co) and via [my resume](https://resume.michaeldemar.co).
 
 ## What I'm up to 🧰
 
-- Interning full-time at Samsung, where I work on [Samsung Knox](https://samsungknox.com/) with Node, React, Mongo, and more
 - TAing a a Computer Systems course at UBC
 - Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
 
 ## What I've done 📚
 
 - TA'd courses on data science, computational models, introduction to functional programming, and introduction to programming for non-majors
-- Interned as a full stack software engineer where I built an application to support small businesses through the COVID-19 pandemic
-- Helped transition computer engineering courses to an online format for this past fall semester
+- Interned as a Software Engineer at Samsung Electronics, where I worked on [Samsung Knox](https://samsungknox.com/) with Node, React, Mongo, and more
 
 ## Where I'm headed 🚂
 
