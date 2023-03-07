@@ -6,12 +6,13 @@ Learn more about me on [my website](https://michaeldemar.co) and via [my resume]
 
 ## What I'm up to 🧰
 
-- Working at Tesla 
+- On exchange at the National University of Singapore!
 - Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
 
 ## What I've done 📚
 
-- TA'd courses on algorithms and data structures, computer systems, data science, computational models, introduction to functional programming, and introduction to programming for non-majors
+- TA'd courses on algorithms and data structures, computer systems, computer networking, data science, computational models, introduction to functional programming, and introduction to programming for non-majors
+- Interned as a Software Engineer At Tesla, where I worked on [Superchargers](https://www.tesla.com/supercharger) with React, TypeScript, Python (Flask), and more
 - Interned as a Software Engineer at Amazon, where I worked on [supply chain optimization](https://www.amazon.jobs/en/teams/scot) with React, TypeScript, AWS, and more
 - Interned as a Software Engineer at Samsung Electronics, where I worked on [Samsung Knox](https://samsungknox.com/) with Node, React, Mongo, and more
 
