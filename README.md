@@ -7,6 +7,7 @@ Learn more about me on [my website](https://michaeldemar.co) and via [my resume]
 ## What I'm up to 🧰
 
 - Working at the Canadian Space Agency
+- Serving as an Undergraduate Teaching Assistant in CPSC 330, Applied Machine Learning
 - Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/channel/UCohoNm6NqDAetXX6MiaV_RQ)
 
 ## What I've done 📚
@@ -22,6 +23,7 @@ Learn more about me on [my website](https://michaeldemar.co) and via [my resume]
 - Launching [weNote](https://wenote.ca), a platform to enhance remote learning
 - Participating in hackathons and working on side projects
 - Publishing my first paper before I graduate
+- Leading a seminar on [computer science education](https://github.com/michaelfromyeg/cpsc490b-pedagogy)
 
 ## Get in touch
 
