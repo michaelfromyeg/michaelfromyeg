@@ -29,5 +29,3 @@ Learn more about me on [my website](https://michaeldemar.co) and read more about
 ## Get in touch
 
 Feel free to reach out on [LinkedIn](https://linkedin.com/in/michaelfromyeg) or via e-mail (mdemar01@student.ubc.ca). Always looking to make new friends and group up on side projects!
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/58737348/activity-summary/7cb7a447ac52105a5996b50a60ea3b426440068f'></iframe>
