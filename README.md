@@ -1,6 +1,6 @@
 # Michael DeMarco—@michaelfromyeg
 
-Hi, I'm Michael. I'm helping to make @NotionHQ fast(er).
+Hi, I'm Michael. I'm helping to make Notion fast(er).
 
 Learn more about me on [my website](https://michaeldemar.co) and read more about my formal experience on [my resume](https://resume.michaeldemar.co).
 
