@@ -12,7 +12,7 @@ Learn more about me on [my website](https://michaeldemar.co) and read more about
 ## What I've done 📚
 
 - TA'd courses on algorithms and data structures, parallel computing, computer systems, computer networking, data science, computational models, applied machine learning, introduction to functional programming, and introduction to programming for non-majors
-- Interned as a Software Engineer at The Canadian Space Agency, where I worked on routing for [Canada's first-ever Lunar rover](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/first-canadian-rover-to-explore-the-moon.asp)
+- Interned as a Software Engineer at The Canadian Space Agency, where I worked on [Canada's first-ever Lunar rover](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/first-canadian-rover-to-explore-the-moon.asp)
 - Interned as a Software Engineer at Tesla, where I worked on [Superchargers](https://www.tesla.com/supercharger)
 - Interned as a Software Engineer at Amazon, where I worked on [supply chain optimization](https://www.amazon.jobs/en/teams/scot)
 - Interned as a Software Engineer at Samsung Electronics, where I worked on [Samsung Knox](https://samsungknox.com)
