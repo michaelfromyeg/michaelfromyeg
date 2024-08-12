@@ -1,21 +1,22 @@
 # Michael DeMarco—@michaelfromyeg
 
-Hi, I'm Michael. I'm helping to make Notion fast(er).
+Hi, I'm Michael.
 
 Learn more about me on [my website](https://michaeldemar.co) and read more about my formal experience on [my resume](https://resume.michaeldemar.co).
 
 ## What I'm up to 🧰
 
-- Working as a Software Engineering Intern at [Notion](https://www.notion.so)
-- Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://www.youtube.com/@michaelfromyeg)
+- Tinkering...
+- Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://youtube.com/@michaelfromyeg)
 
 ## What I've done 📚
 
 - TA'd courses on algorithms and data structures, parallel computing, computer systems, computer networking, data science, computational models, applied machine learning, introduction to functional programming, and introduction to programming for non-majors
-- Interned as a Software Engineer at The Canadian Space Agency, where I worked on [Canada's Lunar rover](https://www.asc-csa.gc.ca/eng/astronomy/moon-exploration/first-canadian-rover-to-explore-the-moon.asp)
-- Interned as a Software Engineer at Tesla, where I worked on [Superchargers](https://www.tesla.com/supercharger)
-- Interned as a Software Engineer at Amazon, where I worked on [supply chain optimization](https://www.amazon.jobs/en/teams/scot)
-- Interned as a Software Engineer at Samsung Electronics, where I worked on [Samsung Knox](https://samsungknox.com)
+- Interned at [Notion](https://notion.so), where I contributed to our performance tooling
+- Interned at The Canadian Space Agency, where I worked on [Canada's Lunar rover](https://asc-csa.gc.ca/eng/astronomy/moon-exploration/first-canadian-rover-to-explore-the-moon.asp)
+- Interned at Tesla, where I worked on [Superchargers](https://tesla.com/supercharger)
+- Interned at Amazon, where I worked on [supply chain optimization](https://amazon.jobs/en/teams/scot)
+- Interned at Samsung Electronics, where I worked on [Samsung Knox](https://samsungknox.com)
 - Studied abroad at the National University of Singapore, where I took classes on information theory and database implementation (...and travelled South East Asia!)
 - Graduated from The University of British Columbia with a B.Sc. in Honours Computer Science (and a minor in Data Science)
 
