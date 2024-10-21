@@ -6,8 +6,8 @@ Learn more about me on [my website](https://michaeldemar.co) and read more about
 
 ## What I'm up to 🧰
 
-- Tinkering...
-- Writing about CS and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://youtube.com/@michaelfromyeg)
+- Working at Notion on the [Collections team](https://notion.so/help/intro-to-databases)
+- Writing about computer science and my life on my [blog](https://michaeldemar.co/blog) and creating content on [YouTube](https://youtube.com/@michaelfromyeg)
 
 ## What I've done 📚
 
@@ -18,7 +18,7 @@ Learn more about me on [my website](https://michaeldemar.co) and read more about
 - Interned at Amazon, where I worked on [supply chain optimization](https://amazon.jobs/en/teams/scot)
 - Interned at Samsung Electronics, where I worked on [Samsung Knox](https://samsungknox.com)
 - Studied abroad at the National University of Singapore, where I took classes on information theory and database implementation (...and travelled South East Asia!)
-- Graduated from The University of British Columbia with a B.Sc. in Honours Computer Science (and a minor in Data Science)
+- Graduated from The University of British Columbia with a B.Sc. in Computer Science (and a minor in Data Science)
 
 ## Where I'm headed 🚂
 
