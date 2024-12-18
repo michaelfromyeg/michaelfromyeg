@@ -12,7 +12,7 @@ Learn more about me on [my website](https://michaeldemar.co) and read more about
 ## What I've done 📚
 
 - TA'd courses on algorithms and data structures, parallel computing, computer systems, computer networking, data science, computational models, applied machine learning, introduction to functional programming, and introduction to programming for non-majors
-- Interned at [Notion](https://notion.so), where I contributed to our performance tooling
+- Interned at [Notion](https://notion.so), where I contributed to our [performance tooling](https://x.com/jitl/status/1864791448819736753)
 - Interned at The Canadian Space Agency, where I worked on [Canada's Lunar rover](https://asc-csa.gc.ca/eng/astronomy/moon-exploration/first-canadian-rover-to-explore-the-moon.asp)
 - Interned at Tesla, where I worked on [Superchargers](https://tesla.com/supercharger)
 - Interned at Amazon, where I worked on [supply chain optimization](https://amazon.jobs/en/teams/scot)
